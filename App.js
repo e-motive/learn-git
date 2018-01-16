@@ -3,7 +3,6 @@ import React, { Component } from 'react';
 //includes
 import './Assets/css/main.min.css'
 //components
-import Header from './components/headerComponent/header';
 import Footer from './components/footerComponent/footer';
 import HomePage from './components/pages/homePage';
 
