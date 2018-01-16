@@ -1,7 +1,6 @@
 var gulp = require ("gulp"),
 browserSync = require ("browser-sync"),
 sass = require ("gulp-sass"),
-concat = require ("gulp-concat"),
 cssnano = require ("gulp-cssnano"),
 rename = require ("gulp-rename"),
 del = require ("del"),
